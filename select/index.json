@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "連れ出してトロイメライ（feat. ヰ世界情緒、弌誠）",
+  "base_artist": "MAISONdes",
+  "createdAt": "2026-03-12T01:49:39.975358Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "連れ出してトロイメライ",
+      "artist": "MAISONdes, 弌誠, ヰ世界情緒",
+      "has_synced": false,
+      "path": "select/pl_01_連れ出してトロイメライ_MAISONdes,_弌誠,_ヰ世界情緒.txt"
+    }
+  ]
+}
